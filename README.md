@@ -2,7 +2,7 @@
 Descrição do Sistema:
 -------------------------------------------------------------
 Objetivo: O aplicativo para gerenciamento do Contas a Pagar, 
-          que possa se utilizado em multiplas empresas.
+          que possa se utilizado para a maioria das empresas.
 
 Mecânica: O usuário precisa provisionar as suas  contas   a
 pagar, com data de emissão, data de vencimento,    data  de 
